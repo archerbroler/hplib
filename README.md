@@ -1,5 +1,3 @@
-# hplib
-
 ```
 The net subsystem of Linux has a performance drawback for nowadays SMP CPU.
 High performance net application often requeire core affinaty, so CPU and memory area used by the same thread should be on the same numa node.
